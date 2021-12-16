@@ -1,6 +1,6 @@
 # go-libaudit
 
-[![Build Status](https://beats-ci.elastic.co/job/Library/job/go-libaudit-mbp/job/master/badge/icon)](https://beats-ci.elastic.co/job/Library/job/go-libaudit-mbp/job/master/)
+[![Build Status](https://beats-ci.elastic.co/job/Library/job/go-libaudit-mbp/job/main/badge/icon)](https://beats-ci.elastic.co/job/Library/job/go-libaudit-mbp/job/main/)
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
 
 [travis]: http://travis-ci.org/elastic/go-libaudit
